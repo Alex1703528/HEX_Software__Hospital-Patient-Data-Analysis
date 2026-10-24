@@ -1,0 +1,7 @@
+Medical Condition,Patient_Count,Avg_Age,Avg_Stay_Days,Avg_Billing,Median_Billing
+Arthritis,9297,51.58,15.52,25528.12,25602.59
+Asthma,9167,51.57,15.7,25686.67,25704.99
+Cancer,9208,51.55,15.5,25214.91,24990.58
+Diabetes,9284,51.55,15.42,25694.5,25659.9
+Hypertension,9224,51.74,15.46,25556.09,25322.2
+Obesity,9212,51.23,15.46,25860.32,26167.19
